@@ -1,7 +1,7 @@
 {
   "name": "node-document-serializer",
   "description": "Serializer adapter interface for `node-document` ODM for Node.js.",
-  "version": "0.1.0-pre1",
+  "version": "0.1.0-pre2",
   "homepage": "https://github.com/grimen/node-document-serializer",
   "repository": {
     "type": "git",
@@ -37,15 +37,15 @@
     "node": ">= 0.8.0"
   },
   "dependencies": {
+    "chai": "latest",
+    "longjohn": "latest",
+    "colors": "latest",
     "funargs": "latest",
     "sugar": "latest"
   },
   "devDependencies": {
     "mocha": "latest",
-    "chai": "latest",
     "cover": "latest",
-    "node-inspector": "latest",
-    "longjohn": "latest",
-    "colors": "latest"
+    "node-inspector": "latest"
   }
 }
