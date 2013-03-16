@@ -1,6 +1,7 @@
 {
   "name": "node-document-serializer",
   "description": "Serializer adapter interface for `node-document` ODM for Node.js.",
+  "keywords": ["document", "odm", "object document mapper", "generic", "unified", "serializer", "serialization", "adapter", "interface"],
   "version": "0.1.0-pre2",
   "homepage": "https://github.com/grimen/node-document-serializer",
   "repository": {
@@ -16,6 +17,7 @@
       "url": "https://github.com/grimen/node-document-serializer/blob/MIT-LICENSE"
     }
   ],
+  "author": "Jonas Grimfelt <grimen@gmail.com>",
   "maintainers": [
     {
       "name": "Jonas Grimfelt",
